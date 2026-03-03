@@ -1,0 +1,2 @@
+# lake
+Open for all
