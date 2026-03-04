@@ -1,0 +1,2 @@
+cp ~/lake-backups/db.sqlite3.<date> db.sqlite3 
+#PS this is for re activating the github stuff you got bro 
