@@ -1,2 +1,2 @@
-# lake
-Open for all
+# LAKE PRIVACY
+
