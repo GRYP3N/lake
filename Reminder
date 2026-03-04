@@ -1,2 +1,6 @@
 cp ~/lake-backups/db.sqlite3.<date> db.sqlite3 
 #PS this is for re activating the github stuff you got bro 
+ALSO
+  python manage.py migrate      # safe to run again
+python manage.py runserver
+That is to restart it or run it again.
