@@ -21,5 +21,5 @@ from myapp import views
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("", views.home, name="home"),  # root URL mapping
+    path("", views.home, name="home"),
 ]
